@@ -1,3 +1,3 @@
 # effbot.github.io
 
-Nothing here yet.
+**effbot.org** is taking a break.
